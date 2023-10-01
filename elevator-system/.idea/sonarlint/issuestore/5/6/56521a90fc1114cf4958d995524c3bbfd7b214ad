@@ -1,0 +1,38 @@
+
+n
+java:S1192Z"QDefine a constant instead of duplicating this literal "Reached floor - " 4 times.(¥Ìä8¢éÔ¼ñ0
+t
+java:S1192W"WDefine a constant instead of duplicating this literal "Got exception in sleep" 4 times.(ò¦Ö8¢éÔ¼ñ0
+v
+java:S1192R"YDefine a constant instead of duplicating this literal "Doors opened at floor - " 4 times.(¶ ®²8¢éÔ¼ñ0
+D
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8¶êÔ¼ñ0
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(çõŸ­8»êÔ¼ñ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(œØÑŠÿÿÿÿÿ8½êÔ¼ñ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(§Õ™‰8¾êÔ¼ñ0
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(«»Ôäøÿÿÿÿ8¿êÔ¼ñ0
+{
+java:S2142%"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8¿êÔ¼ñ0
+]	java:S125D"<This block of commented-out lines of code should be removed.(–¦´şşÿÿÿÿ8„ÏÙ¼ñ0
+U	java:S106R"9Replace this use of System.out or System.err by a logger.(¶ ®²8ÇêÔ¼ñ0
+{
+java:S2142V"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ÇêÔ¼ñ0
+U	java:S106W"9Replace this use of System.out or System.err by a logger.(ò¦Ö8ÈêÔ¼ñ0
+U	java:S106Z"9Replace this use of System.out or System.err by a logger.(¥Ìä8ÉêÔ¼ñ0
+U	java:S106`"9Replace this use of System.out or System.err by a logger.(¶ ®²8ÊêÔ¼ñ0
+]	java:S125d"<This block of commented-out lines of code should be removed.(–¦´şşÿÿÿÿ8²ĞÚ¼ñ0
+U	java:S106r"9Replace this use of System.out or System.err by a logger.(¶ ®²8ÎêÔ¼ñ0
+{
+java:S2142v"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ÏêÔ¼ñ0
+U	java:S106w"9Replace this use of System.out or System.err by a logger.(ò¦Ö8ÑêÔ¼ñ0
+U	java:S106z"9Replace this use of System.out or System.err by a logger.(¥Ìä8ÒêÔ¼ñ0
+V	java:S106€"9Replace this use of System.out or System.err by a logger.(¶ ®²8ÒêÔ¼ñ0
+|
+java:S2142‡"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ÀÈÕ¼ñ0
+V	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(ò¦Ö8ÀÈÕ¼ñ0
+V	java:S106‹"9Replace this use of System.out or System.err by a logger.(¥Ìä8ÀÈÕ¼ñ0
+|
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8çïÖ¼ñ0
+V	java:S106‘"9Replace this use of System.out or System.err by a logger.(ò¦Ö8èïÖ¼ñ0
+V	java:S106”"9Replace this use of System.out or System.err by a logger.(¥Ìä8èïÖ¼ñ0
